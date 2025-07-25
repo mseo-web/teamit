@@ -83,7 +83,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Моя первая задача\",\r\n    \"description\": \"Это описание моей первой задачи.\",\r\n    \"status\": \"новая\"\r\n}",
+					"raw": "{\r\n    \"name\": \"Новая задача\",\r\n    \"description\": \"Это описание новой задачи.\",\r\n    \"status\": \"новая\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -339,7 +339,7 @@
 		},
 		{
 			"key": "TOKEN",
-			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NTMzNjQ2NzcsImV4cCI6MTc1MzM2ODI3Nywicm9sZXMiOlsiUk9MRV9VU0VSIl0sInVzZXJuYW1lIjoidXNlckBleGFtcGxlLmNvbSJ9.YMfaZTWChMF8nS52_S9YBRXe6Penudp4UOO5ypfmyv51IcPXnVI6xN8LjuP0t_opQbQov-M2jUR6bX7VOjsGMchQZRuwyDwIzAmmRGMg-p7Hp6O_TDLcTpl-1WwzFfuovSZxkQr-QUbmZuKqNv92ZK9rqMwIb8jyLMD1gY_er4fQM6V5IuEP7v6xiynzU5o0q5pcyUnaGjDMhJogPdkZH2ZM8IgbTKzayHYJ1ctz813Roz6p0PwwdityYgFu9gNVqQ_V8DbMYQUiMrFyCwwlv2NhlxU9eQ011cXGD_j7qtY8HVoICEw8d1qKMA04ju6lMRXiO6jmTqau7Q-89AtVwg",
+			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NTM0MzI3MTYsImV4cCI6MTc1NDAzNzUxNiwicm9sZXMiOlsiUk9MRV9VU0VSIl0sInVzZXJuYW1lIjoidXNlckBleGFtcGxlLmNvbSJ9.Sncd0f-c6zJtdZkT_1a_Sd7sTTxqYwZCbYEJG-RDEHUPNW5eQYjfGFbto5j0GrU0zxllVGi7z6BWQ-MaKpIDsdf_FkepVk8ei2EaHldUnlp1_qGAYzxDCR_JOtlaD95olX_ICwuupl2BHPi2GOUMfFFszkeJesS9ufQ2lQAmEBt4QFZnw1cbrmGO7DPDOeWrf_icrEMRsaDzs2L2ZMWQIuQrxlbuiQoG7098EZjxFB_X3ckSrL0K3Iqzv05_AMfwp2SvGlCZF7yq8RbTIjJ2n1NPEnRF73dkEc_sE294Fs28Vm7Vxepjoa2A22eCpbAylwaKMlHGK8TfIs85uboTog",
 			"type": "string"
 		}
 	]

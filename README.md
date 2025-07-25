@@ -15,6 +15,7 @@
 - Пагинация для запроса всех задач
 - Фильтрация задач по статусу
 - Аутентификация с использованием JWT
+- Простые unit-тесты
 
 ---
 
@@ -30,3 +31,15 @@
 ## ⚙️ Коллекция Postman
 
 - TeamIT.postman_collection.json (лежит в корне проекта)
+---
+
+## ⚙️ Тесты
+
+- vendor/bin/phpunit (для запуска всех тестов)
+- vendor/bin/phpunit tests/Controller/RegistrationControllerTest.php (для запуска теста регистрации)
+- vendor/bin/phpunit tests/Controller/TaskControllerTest.php (для запуска теста задач)
+---
+
+## ⚙️ Запуск приложения
+
+- symfony server:start
